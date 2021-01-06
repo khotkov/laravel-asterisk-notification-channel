@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/asterisk",
+    "name": "khotkov/laravel-asterisk-notification-channel",
     "description": "Asterisk Notifications Driver",
     "homepage": "https://github.com/laravel-notification-channels/asterisk",
     "license": "MIT",
@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/notifications": "^5.3",
-        "illuminate/support": "^5.1|^5.2|^5.3",
+        "illuminate/notifications": "^8.12",
+        "illuminate/support": "^8.12",
         "enniel/ami": "1.0.0"
     },
     "require-dev": {
