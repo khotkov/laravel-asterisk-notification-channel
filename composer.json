@@ -1,5 +1,5 @@
 {
-    "name": "enniel/laravel-asterisk-notification-channel",
+    "name": "khotkov/laravel-asterisk-notification-channel",
     "description": "Asterisk Notifications Driver",
     "homepage": "https://github.com/laravel-notification-channels/asterisk",
     "license": "MIT",
